@@ -8,6 +8,17 @@ Sendra Labs acts as an intelligent layer between users and DeFi protocols, focus
 [![GitHub Forks](https://img.shields.io/github/forks/protocol-mvp.svg?style=social)](https://github.com/protocol-mvp/network)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SendraLabs?style=social)](https://twitter.com/SendraLabs)
 
+## Development Stats
+
+![Top Languages](https://img.shields.io/github/languages/top/protocol-mvp/protocol-mvp?style=flat-square)
+![Language Count](https://img.shields.io/github/languages/count/protocol-mvp/protocol-mvp?style=flat-square)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/protocol-mvp/protocol-mvp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/protocol-mvp/protocol-mvp?style=flat-square)
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=protocol-mvp&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=protocol-mvp&layout=compact&theme=transparent&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=protocol-mvp&theme=transparent&hide_border=true)
+
 ## Key Features
 
 | Feature            | Description                                      | Benefit                          |
