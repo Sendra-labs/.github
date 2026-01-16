@@ -7,7 +7,7 @@ Sendra Labs is a modular, Arbitrum-native DeFi infrastructure that combines exec
 
 ## Architecture Overview
 
-Sendra Labs is structured around four interoperable layers—Intelligence, Execution, Accounting, and Social—each built as an independent module but designed to work together seamlessly.
+Sendra Labs is structured around four interoperable layers: Intelligence, Execution, Accounting, and Social. Each built as an independent module but designed to work together seamlessly.
 
 ```mermaid
 graph TB
