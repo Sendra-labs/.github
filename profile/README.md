@@ -58,6 +58,10 @@ graph TB
 
 The MVP is fully deployed on Arbitrum mainnet with all core components operational.
 
+https://github.com/user-attachments/assets/a3a6f034-1a57-4926-b9a6-63472500808b
+
+
+
 ### Frontend
 - **Stack**: React 19 + TypeScript, Wagmi 2.x + Viem for blockchain interactions
 - **Real-time**: Lightweight Charts for live price tracking, TanStack Query for state management
